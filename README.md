@@ -1,2 +1,1 @@
-# prepCourse-Henry
-06/03/2023
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github en mi computadora local
